@@ -1,0 +1,14 @@
+Introduction
+Polarion is capable of utilizing existing MSWord documents (2007 and above) as well as giving you the tools necessary to create a documents from scratch.  The interface is a very familiar presentation so the learning curve is kept to a minimum.
+Purpose
+This portion of the demo is designed to give you a better understanding of how Polarion ‘Live Docs’ can be used as a manual method to create and enter documents that include various work items such as Requirements, etc. 
+Requirements
+Req one
+this requirement needs a diagram explaining the workflow of a requirement within Polarion 
+Req two
+this requirement should show an inserted table 
+Req three
+insert a graphic here
+Req four
+this requirement shows insertion of a numbered/bulleted list
+
